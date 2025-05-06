@@ -8,9 +8,8 @@ security issues to us, what we expect, and what you can expect from us.
 
 ## Supported versions
 
-We release patches for security issues according to semantic versioning. This
-project is currently unstable (v0.x) and only the latest version will receive
-security patches.
+We release patches for security issues according to semantic versioning. Only
+the latest major version will receive security patches.
 
 ## Reporting a vulnerability
 
