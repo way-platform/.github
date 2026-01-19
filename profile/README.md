@@ -1,15 +1,9 @@
-<img src="/profile/cover.jpg" />
+<img src="/profile/cover.png" />
 
 # We are Way
 
-We are building the de-facto platform for connecting with all commercially used
-vehicles on the road.
+**We are building the unified data layer for commercial fleets.**
 
-We believe in open standards and open source software. By sharing data and
-standardizing APIs we can achieve better, smarter outcomes for the
-transportation industry as a whole.
+We believe in open standards and open source. By sharing data and standardizing APIs, we turn fragmented fleet information into usable insights for the entire industry.
 
-Our team consists of seasoned professionals working together efficiently,
-respectfully and always closely with our customers. Together, we are the
-friendliest and most skillful team of builders our customers can find on the
-market anywhere in the world.
+We are a team of builders focused on craftsmanship, respect, and collaboration. We work closely with our customers to solve complex operational challenges with clear, reliable code.
