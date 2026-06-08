@@ -17,7 +17,7 @@ Please do not report security vulnerabilities through public issues,
 discussions, or change requests.
 
 Please report security issues via email to
-[oss-security@wayplatform.com](mailto:oss-security@wayplatform.com). Provide all
+[oss-security@way.cloud](mailto:oss-security@way.cloud). Provide all
 relevant information, including steps to reproduce the issue, any affected
 versions, and known mitigations. The more details you provide, the easier it
 will be for us to triage and fix the issue. You will receive a response from us
